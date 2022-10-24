@@ -17,7 +17,7 @@
 
 # App Interface
 
-<p> <img src = "pics\splash.jpeg" height="700"></p><br>
+<p> <img src = "pics\splash.jpeg" height="700">  <img src = "pics\home.jpeg" height="700"> </p><br>
 
 <p> <img src = "pics\home.jpeg" height="700">    <img src = "pics\Bhome.jpeg" height="700"> </p><br>
 
